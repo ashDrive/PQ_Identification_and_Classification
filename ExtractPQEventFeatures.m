@@ -1,7 +1,10 @@
+% HELLO! This is asha testing for github stuff:) Just adding some comments
+% that's all...
 clear all;clc;close all
 
 % Load PQ Events
 load('PQ_JNL')
+
 
 % Sample Events
 events = PQ.samples;
